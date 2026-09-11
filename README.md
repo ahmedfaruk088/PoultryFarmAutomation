@@ -77,6 +77,7 @@ Kümes bazlı sensör özetleri, alarm durumundaki ve veri alınamayan sensörle
 Her sensöre ait geçmiş grafik, alarm durumu ve tarih aralığına göre raporlama.
 
 ![Sensörler](images/Sensors.png)
+![Sensör Geçmişi Detayı](images/Sensors2.png)
 
 ### Alarmlar
 Eşik aşımı, arıza gibi sistem alarmlarının anlık listesi.
