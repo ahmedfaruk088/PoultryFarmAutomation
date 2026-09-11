@@ -1,0 +1,6 @@
+@PlcMockApi_HostAddress = http://localhost:5243
+
+GET {{PlcMockApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

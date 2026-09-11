@@ -1,0 +1,101 @@
+# =========================
+# Node / React / Next.js
+# =========================
+node_modules/
+**/node_modules/
+
+.next/
+**/.next/
+
+dist/
+**/dist/
+
+build/
+**/build/
+
+out/
+**/out/
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+**/.env
+**/.env.*
+!**/.env.example
+
+# =========================
+# .NET / C# secrets (appsettings)
+# =========================
+**/appsettings.Development.json
+**/appsettings.Local.json
+**/appsettings.*.Local.json
+**/secrets.json
+
+# =========================
+# .NET / C#
+# =========================
+bin/
+obj/
+**/bin/
+**/obj/
+
+.vs/
+**/.vs/
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Publish output
+# =========================
+publish/
+**/publish/
+
+# =========================
+# Visual Studio / Editors
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Database / Local files
+# =========================
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# Certificates / Keys
+# =========================
+*.pfx
+*.pem
+*.key
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
