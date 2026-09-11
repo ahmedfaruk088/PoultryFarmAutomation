@@ -74,7 +74,7 @@ Kümes bazlı sensör özetleri, alarm durumundaki ve veri alınamayan sensörle
 ![SCADA PLC Etiket Tanımlama](images/SCADA_PLC.png)
 
 ### Sensörler
-Her sensöre ait geçmiş grafik, alarm durumu ve tarih aralığına göre raporlama.
+Her sensöre ait geçmiş grafik, alarm durumu ve tarih aralığına göre raporlama (excel formatında).
 
 ![Sensörler](images/Sensors.png)
 ![Sensör Geçmişi Detayı](images/Sensors2.png)
