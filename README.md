@@ -1,6 +1,6 @@
 # FactoryDashboard
 
-Kümes (broiler/tavuk çiftliği) işletmeleri için geliştirilmiş, gerçek zamanlı SCADA panosu, sensör takibi, alarm yönetimi ve PLC entegrasyonu sunan tam kapsamlı bir otomasyon ve izleme platformu.
+Kümes işletmeleri için geliştirilmiş, gerçek zamanlı SCADA panosu, sensör takibi, alarm yönetimi ve PLC entegrasyonu sunan tam kapsamlı bir otomasyon ve izleme platformu.
 
 ## Proje Hakkında
 
